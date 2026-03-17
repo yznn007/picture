@@ -11,10 +11,12 @@
             "id": "002158bb9b86501e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "GithubCopliot学生认证申请指北/Pasted_image 20260317120845.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted_image 20260317120845"
             }
           }
         ]
@@ -189,11 +191,11 @@
   },
   "active": "6b3bab3619a8f434",
   "lastOpenFiles": [
-    "GithubCopliot学生认证申请指北/Pasted image 20260317121048.png",
-    "GithubCopliot学生认证申请指北/Pasted image 20260317120923.png",
-    "GithubCopliot学生认证申请指北/Pasted image 20260317120845.png",
-    "GithubCopliot学生认证申请指北/Pasted image 20260317120839.png",
-    "GithubCopliot学生认证申请指北/Pasted image 20260317120320.png",
+    "GithubCopliot学生认证申请指北/Pasted_image 20260317120923.png",
+    "GithubCopliot学生认证申请指北/Pasted_image 20260317121048.png",
+    "GithubCopliot学生认证申请指北/Pasted_image 20260317120845.png",
+    "GithubCopliot学生认证申请指北/Pasted_image 20260317120839.png",
+    "GithubCopliot学生认证申请指北/Pasted_image 20260317120320.png",
     "GithubCopliot学生认证申请指北/mmexport1773737873838.jpg",
     "GithubCopliot学生认证申请指北/mmexport1773734627632.jpg",
     "GithubCopliot学生认证申请指北/IMG_20260317_173341.jpg",
